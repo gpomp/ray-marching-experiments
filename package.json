@@ -52,4 +52,12 @@
   "engines": {
     "node": "6.2.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:gpomp/ray-marching-experiments.git"
+  },
+  "homepage": "https://github.com/gpomp/ray-marching-experiments",
+  "bugs": {
+    "url": "https://github.com/gpomp/ray-marching-experiments/issues"
+  }
 }
